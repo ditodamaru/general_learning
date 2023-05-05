@@ -198,6 +198,14 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- DIARY NOTE -->
+## Check plagiarism
+1. check this website
+https://kangwon.ac.kr.libguides.com/c.php?g=953296 
+2. use turnitin
+https://www.turnitin.com/ 
+
+
 
 <!-- LICENSE -->
 ## License
